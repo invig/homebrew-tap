@@ -1,6 +1,6 @@
 cask "expanse" do
-  version "0.1.44"
-  sha256 "3825a0bbb31ec1ad372adee4253aad9ab6f1e873ab136872f46d27c832757838"
+  version "0.1.45"
+  sha256 "50aacdec2f61c054ca06e2ae9df10d558427836c2543b7546279d066f201f17b"
 
   url "https://github.com/invig/expanse/releases/download/v#{version}/Expanse-#{version}.zip"
   name "Expanse"
